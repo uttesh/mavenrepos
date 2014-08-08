@@ -22,7 +22,6 @@ Your Ant task will probably look something like this:
           haltonfailure="true"
           useDefaultListeners="false"
           listeners="pdfreport.PDFReportListener">
-    
     <sysproperty key="pdfreport.title" value="My Test Report"/>
   </testng>
   
